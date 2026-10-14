@@ -1,0 +1,12 @@
+[2025-12-29 21:17:16] SMS to 08782167: Attendance Alert: Your child Ahmed Ali was marked ABSENT today (2025-12-29).
+[2025-12-29 21:17:16] SMS to 123456: Attendance Alert: Your child Bilal Ahmed was marked ABSENT today (2025-12-29).
+[2025-12-29 21:17:16] SMS to 02736546: Attendance Alert: Your child bushra was marked ABSENT today (2025-12-29).
+[2025-12-29 21:17:16] SMS to 76321563: Attendance Alert: Your child Dua Fatima was marked ABSENT today (2025-12-29).
+[2025-12-29 21:17:16] SMS to 76437867831: Attendance Alert: Your child minaal was marked ABSENT today (2025-12-29).
+[2025-12-29 21:17:16] SMS to 9873268763: Attendance Alert: Your child sara khan was marked ABSENT today (2025-12-29).
+[2025-12-29 21:17:16] SMS to 7329672: Attendance Alert: Your child sara khan was marked ABSENT today (2025-12-29).
+[2025-12-29 21:17:16] SMS to 874637826: Attendance Alert: Your child Sara Khan was marked ABSENT today (2025-12-29).
+[2025-12-29 21:17:16] SMS to 8797545: Attendance Alert: Your child sidra was marked ABSENT today (2025-12-29).
+[2025-12-29 21:17:16] SMS to 7621451386: Attendance Alert: Your child Zain Malik was marked ABSENT today (2025-12-29).
+To 9873268763: Exam Result: sara khan scored 10/100 (Fail) in english.
+To 123456: Exam Result: Bilal Ahmed scored 75/100 (B) in english.
