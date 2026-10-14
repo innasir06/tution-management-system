@@ -27,7 +27,6 @@ MySQL database `tuition_db` with tables for users, students, teachers, courses, 
 5. Open `http://localhost/tuition_management_system/index.php`
 
 ## 📸 Screenshots & Documentation
-📄 [Project report with screenshots (PDF)](scd_p_final.pdf)
-
+📄 [Project report with screenshots (PDF)](project%20report%20with%20screenshot.pdf)
 ## 👥 Team
 Inshal Nasir • Alina Iman • Bushra Iman
